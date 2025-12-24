@@ -1,0 +1,22 @@
+{
+  "name": "r9r-claude-resources",
+  "version": "1.0.0",
+  "description": "Skills, agents et commandes Claude Code pour le prompt engineering et la productivité",
+  "author": {
+    "name": "Ronan Lamour",
+    "email": "ronan@lamour.bzh"
+  },
+  "homepage": "https://github.com/r9r-dev/claude-resources",
+  "repository": "https://github.com/r9r-dev/claude-resources",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "prompts",
+    "mcp-servers",
+    "subagents",
+    "hooks",
+    "slash-commands",
+    "prompt-engineering",
+    "meta-prompting"
+  ]
+}
